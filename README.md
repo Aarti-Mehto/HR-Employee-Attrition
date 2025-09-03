@@ -25,6 +25,10 @@ The goal is to help HR teams identify attrition trends, understand employee demo
 - `data/` → Sample dataset
 ---
 ## 📊 Dashboard Preview
+![Attrition Dashboard]
+https://github.com/Aarti-Mehto/HR-Employee-Attrition/blob/main/Employee%20Attrition%20Analysis%20Dashboard1.png
+https://github.com/Aarti-Mehto/HR-Employee-Attrition/blob/main/Employee%20Attrition%20Analysis%20Dashboard2.png
+
 ---
 
 ## ✅ How to Use
